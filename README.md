@@ -37,7 +37,7 @@ I’m a backend-focused developer working mainly with **Java and Spring Boot**, 
   Focus on RESTful APIs, data processing and a responsive UI.
 
 - 🧾 **Microservice-based training webshop** *(in progress)*  
-  A real-world backend for booking online trainings, designed as a set of Spring Boot microservices (auth, training, booking, messaging, gateway).  
+  A real-world application for booking online trainings, designed as a set of Spring Boot microservices (auth, training, booking, messaging, gateway).  
   Focus on **clean architecture**, **JWT-based authentication**, **service boundaries**, and separate databases per service to keep responsibilities clear and the system
   scalable.
   
