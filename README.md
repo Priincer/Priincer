@@ -36,9 +36,11 @@ I’m a backend-focused developer working mainly with **Java and Spring Boot**, 
   A web app to display financial data in near real-time using **Java + Spring Boot** on the backend and **Vue.js** on the frontend.  
   Focus on RESTful APIs, data processing and a responsive UI.
 
-- 🛒 **Small webshop concept for an influencer** *(in progress)*  
-  Exploring typical webshop features like product listing, cart and basic order flow.
-
+- 🧾 **Microservice-based training webshop** *(in progress)*  
+  A real-world backend for booking online trainings, designed as a set of Spring Boot microservices (auth, training, booking, messaging, gateway).  
+  Focus on **clean architecture**, **JWT-based authentication**, **service boundaries**, and separate databases per service to keep responsibilities clear and the system
+  scalable.
+  
 - 🌐 **Personal portfolio page** *(in progress)*  
   Showcasing my projects, tech stack and journey as a developer.
 
